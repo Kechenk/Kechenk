@@ -23,7 +23,6 @@ Fun Fact !! **Being a QA Tester one time but world speaks another thing**</p>
 </p>
 
 <p align="left">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Apple_logo_white.svg/404px-Apple_logo_white.svg.png" alt="Apple" width="40"/> </a>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Apple_logo_grey.svg/500px-Apple_logo_grey.svg.png" alt="Apple" width="40"/> </a>
 <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/> </a>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Apple_logo_black.svg/500px-Apple_logo_black.svg.png" alt="Apple Black" width="40"/>
 </p>
