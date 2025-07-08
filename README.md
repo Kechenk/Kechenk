@@ -18,7 +18,7 @@
           <img alt="Shows a black logo in light color mode and a white one in dark color mode." src="https://avatars.githubusercontent.com/u/32319439?v=4">
         </picture>
     </a>
-    <a href="https://saweria.co/kechenk" target="_blank">
+    <a href="https://trakteer.id/kechenk" target="_blank">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="https://i.imgur.com/pcj98OV.png">
           <source media="(prefers-color-scheme: light)" srcset="https://i.imgur.com/Oqt2l6O.png">
