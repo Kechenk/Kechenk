@@ -6,7 +6,7 @@
     </picture>
 </p>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kechenk&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kechenk&bg_color=18181b&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">How to reach me <a href="mailto:kechenk@proton.me">kechenk@proton.me</a></p>
 <p align="center">Fun Fact !! <b>Being a QA Tester one time but world speaks another thing</b></p>
